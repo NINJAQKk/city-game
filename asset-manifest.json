@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/city-game/static/css/main.55bf1023.css",
-    "main.js": "/city-game/static/js/main.b5543591.js",
+    "main.js": "/city-game/static/js/main.425bb492.js",
     "index.html": "/city-game/index.html",
     "main.55bf1023.css.map": "/city-game/static/css/main.55bf1023.css.map",
-    "main.b5543591.js.map": "/city-game/static/js/main.b5543591.js.map"
+    "main.425bb492.js.map": "/city-game/static/js/main.425bb492.js.map"
   },
   "entrypoints": [
     "static/css/main.55bf1023.css",
-    "static/js/main.b5543591.js"
+    "static/js/main.425bb492.js"
   ]
 }
